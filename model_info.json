@@ -1,0 +1,18 @@
+{
+  "model_architecture": "EfficientNetV2-S",
+  "num_classes": 7,
+  "class_names": [
+    "Barbari",
+    "Goat",
+    "Harri",
+    "Naeimi",
+    "Najdi",
+    "Roman",
+    "Sawakni"
+  ],
+  "best_val_accuracy": 95.09803921568627,
+  "test_accuracy": 95.89442815249267,
+  "total_train_samples": 580,
+  "total_val_samples": 102,
+  "total_test_samples": 682
+}
